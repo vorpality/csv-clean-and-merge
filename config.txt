@@ -1,0 +1,4 @@
+sample_data= normal_data.csv
+transformation_file= transformed_data.csv
+file_with_wavelengths= reformed.csv
+final_file= final.csv
